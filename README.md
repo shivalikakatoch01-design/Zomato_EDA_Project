@@ -21,6 +21,19 @@ To run this notebook yourself, download the dataset from the link above and plac
 - "Quick Bites" is the most common restaurant type (~19,000), nearly double the second-most common type, "Casual Dining" (~10,000)
 - Restaurants offering table booking have a noticeably higher average rating (~4.15) than those that don't (~3.6)
 - Costlier restaurants (₹3000+ for two) are almost all rated 4.0 or above, while cheaper restaurants show much wider variation in ratings
+- About 59% of restaurants offer online ordering
+- Most restaurants charge between ₹300–800 for two people, with very few priced above ₹2000
+- Areas like Sahakara Nagar and Indiranagar have the highest average ratings among the busiest locations
+
+## Visualizations
+
+![EDA Summary](zomato_eda_summary.png)
+
+![Online Order Availability](online_order_availabilty.png)
+
+![Cost Distribution](Distribution_of_Cost_for_Two_People.png)
+
+![Top Rated Areas](Top_10_Busiest_Areas.png)
 
 ## How to Run
 1. Clone this repository
