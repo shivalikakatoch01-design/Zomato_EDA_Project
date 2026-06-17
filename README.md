@@ -29,11 +29,11 @@ To run this notebook yourself, download the dataset from the link above and plac
 
 ![EDA Summary](zomato_eda_summary.png)
 
-![Online Order Availability](online_order_availabilty.png)
+![Online Order Availability](images/online_order_availabilty.png)
 
-![Cost Distribution](Distribution_of_Cost_for_Two_People.png)
+![Cost Distribution](images/Distribution_of_Cost_for_Two_People.png)
 
-![Top Rated Areas](Top_10_Busiest_Areas.png)
+![Top Rated Areas](images/Top_10_Busiest_Areas.png)
 
 ## How to Run
 1. Clone this repository
